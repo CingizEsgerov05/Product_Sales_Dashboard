@@ -1,5 +1,10 @@
 # Product sales Dashboard
 
+## Overview
+![image](https://github.com/user-attachments/assets/e9bcf9ab-b08e-470f-bf55-d428b5545b61)
+![image](https://github.com/user-attachments/assets/243be464-1e91-4055-9674-50bb53906dcd)
+
+
 ## Problem statement
 
 The goal of this dashboard is to provide a comprehensive overview of product sales and performance across different categories and regions over time. The dashboard enables stakeholders to track and analyze key metrics such as total quantity sold, order percentages, monthly performance trends, and product profitability.
@@ -38,7 +43,3 @@ Key steps in data preparation included:
 
 This structured approach ensured the dataset was clean, reliable, and well-suited for building insightful and interactive visualizations across different levels of detail.
 
-
-## Overview
-![image](https://github.com/user-attachments/assets/e9bcf9ab-b08e-470f-bf55-d428b5545b61)
-![image](https://github.com/user-attachments/assets/243be464-1e91-4055-9674-50bb53906dcd)
